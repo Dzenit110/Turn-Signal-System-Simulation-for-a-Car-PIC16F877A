@@ -1,0 +1,12 @@
+// SourceBoost Linker Function Resource Usage Dump
+
+#GLOBAL:"global",line = 0,ram = 36.0,rom = 0;
+FCM_blink_cetiri(void):"E:\Skola\Mirkoracunari\Zmigavci na autu\Zmigavci_na_autu.c",line = 119,ram = 0.0,rom = 23;
+main(void):"E:\Skola\Mirkoracunari\Zmigavci na autu\Zmigavci_na_autu.c",line = 144,ram = 0.0,rom = 94;
+interrupt(void):"E:\Skola\Mirkoracunari\Zmigavci na autu\Zmigavci_na_autu.c",line = 272,ram = 0.0,rom = 11;
+delay_ms(unsigned char):"NoSourceFile",line = 0,ram = 0.0,rom = 24;
+_startup(void):"NoSourceFile",line = 0,ram = 0.0,rom = 40;
+#HEAP_BLOCK: 0, 272, 111;
+#HEAP_BLOCK: 1, 400, 96;
+#HEAP_BLOCK: 2, 160, 80;
+#HEAP_BLOCK: 3, 68, 44;
